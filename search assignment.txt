@@ -1,0 +1,5 @@
+1-When should I use a struct instead of a class?
+class : Reference Type  ,   struct : value Type
+class : لما يكون في اوبجكت كتير :   Struct : لما يكون في في عدد قليل من الاوبجكت ا 
+class : يدعم التوريث        :    Struct : لا يدعم التوريث 
+ class : بتتخزن ف ال(heap) :  Struct : بتتخزن ف ال(stack)
